@@ -19,7 +19,7 @@ The outcome: Power BI reports built slowly, relationships had to be
 "guessed," and any new analyst needed half a day just to figure out what
 connected to what.
 
-![Data model – before](./data_model_base_bi_project.jpg)
+![Data model – before](./data_model_base_bi_project.png)
 
 ## 🎯 Goal
 
