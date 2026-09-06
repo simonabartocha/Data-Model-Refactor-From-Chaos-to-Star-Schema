@@ -19,7 +19,7 @@ The outcome: Power BI reports built slowly, relationships had to be
 "guessed," and any new analyst needed half a day just to figure out what
 connected to what.
 
-![Data model – before](./screenshots/before.png)
+![Data model – before](./data_model_base_bi_project.jpg)
 
 ## 🎯 Goal
 
@@ -64,7 +64,7 @@ which walks through exactly this kind of process — from diagnosing a
    to the customer dimension — making it clear exactly who can see what,
    and why.
 
-![Data model – after](./screenshots/after.png)
+![Data model – after](./star_schema_bi_project.png)
 
 ## 📐 Model Structure (After Refactor)
 
